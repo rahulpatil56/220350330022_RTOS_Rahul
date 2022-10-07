@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DSDKCONFIG=/home/user/Rtos/hello/sdkconfig;-DIDF_PATH=/home/user/Rtos/esp/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=/home/user/.espressif/python_env/idf5.0_py3.8_env/bin/python;-DEXTRA_COMPONENT_DIRS=/home/user/Rtos/esp/esp-idf/components/bootloader;-DPROJECT_SOURCE_DIR=/home/user/Rtos/hello;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
